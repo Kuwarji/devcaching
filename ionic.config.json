@@ -1,0 +1,7 @@
+{
+  "name": "devcaching",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
